@@ -1,49 +1,19 @@
-#include <Servo.h>
-#include <NewPing.h>
+#include <AFMotor.h>
 
-#define TRIG_PIN A0
-#define ECHO_PIN A1
-#define MAX_DISTANCE 200
-
-NewPing sonar(TRIG_PIN, ECHO_PIN, MAX_DISTANCE);
-Servo myservo;
+AF_DCMotor motor1(1, MOTOR12_1KHZ);
+AF_DCMotor motor2(2, MOTOR12_1KHZ);
 
 void setup() {
-  myservo.attach(10);
-  myservo.write(115); // Начальная позиция серво мотора
-  delay(2000);
+  motor1.setSpeed(100);
+  motor2.setSpeed(100);
 }
 
 void loop() {
-  int distanceR = lookRight();
-  delay(200);
-  int distanceL = lookLeft();
-  delay(200);
+  moveForward();
+  delay(1000); // Двигаться вперед в течение 1 секунды
 }
 
-int lookRight() {
-  myservo.write(50); // Повернуть вправо
-  delay(500);
-  int distance = readPing();
-  delay(100);
-  myservo.write(115); // Вернуть в исходное положение
-  return distance;
-}
-
-int lookLeft() {
-  myservo.write(170); // Повернуть влево
-  delay(500);
-  int distance = readPing();
-  delay(100);
-  myservo.write(115); // Вернуть в исходное положение
-  return distance;
-}
-
-int readPing() {
-  delay(70);
-  int cm = sonar.ping_cm();
-  if (cm == 0) {
-    cm = 250; // Максимальное расстояние
-  }
-  return cm;
+void moveForward() {
+  motor1.run(FORWARD);
+  motor2.run(FORWARD);
 }
