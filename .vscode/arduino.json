@@ -1,0 +1,8 @@
+{
+    "sketch": "ARDUINO_OBSTACLE_AVOIDING_CAR_ROBOTICS.ino",
+    "port": "",
+    "board": "arduino:avr:uno",
+    "libraries": [
+        "/Users/emir/Documents/Arduino/Libraries"
+    ]
+}
