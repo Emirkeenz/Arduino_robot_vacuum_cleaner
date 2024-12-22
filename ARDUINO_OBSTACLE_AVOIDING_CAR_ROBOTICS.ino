@@ -7,6 +7,7 @@
 
 AF_DCMotor motor1(1, MOTOR12_1KHZ);
 AF_DCMotor motor2(2, MOTOR12_1KHZ);
+AF_DCMotor fanMotor(3, MOTOR12_1KHZ);
 
 NewPing sonar(TRIG_PIN, ECHO_PIN, MAX_DISTANCE);
 Servo myservo;
@@ -18,6 +19,8 @@ void setup() {
 
   motor1.setSpeed(100);
   motor2.setSpeed(100);
+  fanMotor.setSpeed(255); // Максимальная скорость
+  fanMotor.run(FORWARD);
 }
 
 void loop() {
