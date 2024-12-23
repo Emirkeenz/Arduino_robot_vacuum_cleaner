@@ -58,12 +58,12 @@ This robotic vacuum cleaner operates on a chassis equipped with 6-12V motors for
    - Ensure the robot can detect obstacles, reverse, scan left and right, and move accordingly.
 
 ## Video Demonstration
-[https://drive.google.com/drive/folders/1QxvwRhOPB-CLZg3yMyL1BGn6rdp75Blx?usp=sharing](url)
+[Video](https://drive.google.com/drive/folders/1QxvwRhOPB-CLZg3yMyL1BGn6rdp75Blx?usp=sharing)
 
-Also in that google drive folder 3D model file included.
+Also in that google drive folder 3D model of used details included.
 
 ## Schematics
-[https://app.cirkitdesigner.com/project/ff59a8b4-c726-488e-9f4a-baa90aa3c070](url)
+[Schematics](https://app.cirkitdesigner.com/project/ff59a8b4-c726-488e-9f4a-baa90aa3c070)
 
 ## Project Purpose
 The Smart Vacuum Cleaner System was developed to create an automated, affordable cleaning solution that integrates efficient navigation and dirt collection. The project demonstrates the use of Arduino for robotics, real-time obstacle detection, and practical cleaning functionality.
@@ -74,10 +74,10 @@ The Smart Vacuum Cleaner System was developed to create an automated, affordable
 3. **Integration and Modularity**: The project can be scaled or modified for additional features, such as app control or advanced mapping.
 
 ## 3D model
-[https://www.tinkercad.com/things/0uaLexiKoqC-fantastic-fyyran-turing/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=CbLU8F5Cn0Htq2iGJd0FUWL_cJEGyDn28_pVYeiq3JY](url)
+[Model](https://www.tinkercad.com/things/0uaLexiKoqC-fantastic-fyyran-turing/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=CbLU8F5Cn0Htq2iGJd0FUWL_cJEGyDn28_pVYeiq3JY)
 
 ## Original Proposal
-[https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlign](url)
+[https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlignAnalysis](https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlign)
 
 ## Team Members
 - Emir Orozbekov
