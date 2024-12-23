@@ -73,6 +73,12 @@ The Smart Vacuum Cleaner System was developed to create an automated, affordable
 2. **Effective Cleaning**: The fan-driven suction system collects dirt and debris effectively.
 3. **Integration and Modularity**: The project can be scaled or modified for additional features, such as app control or advanced mapping.
 
+## 3D model
+[https://www.tinkercad.com/things/0uaLexiKoqC-fantastic-fyyran-turing/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=CbLU8F5Cn0Htq2iGJd0FUWL_cJEGyDn28_pVYeiq3JY](url)
+
+## Original Proposal
+[https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlign](url)
+
 ## Team Members
 - Emir Orozbekov
 - Feruz Tursunov
