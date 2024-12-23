@@ -77,7 +77,7 @@ The Smart Vacuum Cleaner System was developed to create an automated, affordable
 [Model](https://www.tinkercad.com/things/0uaLexiKoqC-fantastic-fyyran-turing/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=CbLU8F5Cn0Htq2iGJd0FUWL_cJEGyDn28_pVYeiq3JY)
 
 ## Original Proposal
-[https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlignAnalysis](https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlign)
+[Analysis](https://docs.google.com/document/d/1puzRsLpL_w_5Fb0CqIDJU0JLIKtEEiwEyUQww3dQuyc/edit?tab=t.0#heading=h.xexogwghlign)
 
 ## Team Members
 - Emir Orozbekov
