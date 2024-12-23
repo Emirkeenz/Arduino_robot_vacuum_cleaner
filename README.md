@@ -59,6 +59,7 @@ This robotic vacuum cleaner operates on a chassis equipped with 6-12V motors for
 
 ## Video Demonstration
 [https://drive.google.com/drive/folders/1QxvwRhOPB-CLZg3yMyL1BGn6rdp75Blx?usp=sharing](url)
+
 Also in that google drive folder 3D model file included.
 
 ## Project Purpose
