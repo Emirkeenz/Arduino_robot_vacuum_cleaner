@@ -62,6 +62,9 @@ This robotic vacuum cleaner operates on a chassis equipped with 6-12V motors for
 
 Also in that google drive folder 3D model file included.
 
+## Schematics
+[https://app.cirkitdesigner.com/project/ff59a8b4-c726-488e-9f4a-baa90aa3c070](url)
+
 ## Project Purpose
 The Smart Vacuum Cleaner System was developed to create an automated, affordable cleaning solution that integrates efficient navigation and dirt collection. The project demonstrates the use of Arduino for robotics, real-time obstacle detection, and practical cleaning functionality.
 
